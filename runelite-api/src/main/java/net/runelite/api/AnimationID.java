@@ -227,12 +227,12 @@ public final class AnimationID
 	public static final int MINING_MOTHERLODE_DRAGON_UPGRADED = 335;
 	public static final int MINING_MOTHERLODE_DRAGON_OR = 8344;
 	public static final int MINING_MOTHERLODE_DRAGON_OR_TRAILBLAZER = 8886;
+	public static final int MINING_MOTHERLODE_DRAGON_OR_TRAILBLAZER_RELOADED = 11827;
 	public static final int MINING_MOTHERLODE_INFERNAL = 4481;
 	public static final int MINING_MOTHERLODE_INFERNAL_TRAILBLAZER_RELOADED = 11825;
 	public static final int MINING_MOTHERLODE_3A = 7282;
 	public static final int MINING_MOTHERLODE_CRYSTAL = 8345;
 	public static final int MINING_MOTHERLODE_TRAILBLAZER = 8786; // Same animation as Infernal pickaxe (or)
-	public static final int MINING_MOTHERLODE_TRAILBLAZER_RELOADED = 11827;
 	public final static int MINING_CRASHEDSTAR_BRONZE = 6747;
 	public final static int MINING_CRASHEDSTAR_IRON = 6748;
 	public final static int MINING_CRASHEDSTAR_STEEL = 6749;
